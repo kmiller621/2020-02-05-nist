@@ -204,6 +204,10 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% endif %}
 
+<h3>Note</h3>
+<p>We will teach either R or Python depending on the interests of the 
+class.</p>
+
 <hr/>
 
 
