@@ -12,7 +12,6 @@ carpentry: "swc"
 # Overall title for pages.
 title: "Git Software Carpentries at NIST"
 
-
 #------------------------------------------------------------
 # Generic settings (should not need to change).
 #------------------------------------------------------------
