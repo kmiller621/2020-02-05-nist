@@ -15,7 +15,7 @@ instructor: ["Jon Guyer", "Justin Senseney"] # boxed, comma-separated list of in
 helper: ["Zak Mohamoud", "Justin Senseney", "Jon Guyer"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["justin.senseney@nist.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
-eventbrite: "1FAIpQLSeBVpVpVcsVEWPCxMiiOur0UMv5IPJ6u7LWOS7sXgmsD4z6UQ"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "1FAIpQLSeGNZIgEfdFJpYQJ1rJ2EmHjlb2r3OsUrcg1sKYH4bfn01JzQ"          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -47,7 +47,7 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-Register for the course here: <a href="https://docs.google.com/forms/d/e/{{page.eventbrite}}/viewform">https://psd.oism.nist.gov/2020-02-05-nist</a>
+Register for the course here: <a href="https://psd.oism.nist.gov/2020-02-05-nist">https://psd.oism.nist.gov/2020-02-05-nist</a>
 {% endif %}
 
 
