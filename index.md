@@ -536,6 +536,7 @@ please preview your site before committing, and make sure to run
   the workshop will teach Python using something other than
   the Jupyter notebook.
   Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
+  {% comment %}
   <h3>Python</h3>
 
   <p>
@@ -621,6 +622,7 @@ please preview your site before committing, and make sure to run
       </article>
     </div>
   </div>
+  {% endcomment %}
   {% comment %}
   <p>
     Once you are done installing the software listed above,
