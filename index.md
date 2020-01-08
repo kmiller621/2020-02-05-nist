@@ -47,7 +47,7 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-Register for the course here: <a href="https://psd.oism.nist.gov/2020-02-05-nist">https://psd.oism.nist.gov/2020-02-05-nist</a>
+<strong>Register for the course here: <a href="https://psd.oism.nist.gov/2020-02-05-nist">https://psd.oism.nist.gov/2020-02-05-nist</a></strong>
 {% endif %}
 
 
