@@ -47,13 +47,7 @@ are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
-<iframe
-  src="https://docs.google.com/forms/d/e/{{page.eventbrite}}/viewform"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
+Register for the course here: https://docs.google.com/forms/d/e/{{page.eventbrite}}/viewform
 {% endif %}
 
 
