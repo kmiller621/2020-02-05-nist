@@ -205,8 +205,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endif %}
 
 <h3>Note</h3>
-<p>We will teach either R or Python depending on the interests of the 
-class.</p>
+<p>Please contact Justin.Senseney@nist.gov if you need help with installing the required software for this course.</p>
 
 <hr/>
 
